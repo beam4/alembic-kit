@@ -5,7 +5,7 @@ feature_text: |
   ## Build your church website
 ---
 
-#### Intention
+#### Intentions
 
 The intention is to build a church site from Code in a github.com repositry(means don't need start from scratch) and Hosting in netlify.com(the netlify.com automatically complete the job). 
 
