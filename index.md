@@ -1,6 +1,6 @@
 ---
 title: Welcome to buildchurchsite
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "img/home_cn.jpg"
 feature_text: |
   ## Build your church website
 ---
