@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-Contact Person: Chee jon
+Contact Person: Chee jon(email prefered)
 
 Email: cheejoen@gmail.com
 
