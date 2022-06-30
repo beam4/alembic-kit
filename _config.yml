@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Opinion
-  url: /opinion/
+  url: /blog/
 - title: Tutorial
   url: /tutorial/
 - title: Contact
