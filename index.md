@@ -2,7 +2,9 @@
 title: Welcome to buildchurchsite
 feature_image: "img/home_cn.jpg"
 feature_text: |
-  ## Build your church website
+  # Build your church website
+  
+  ### To make a web site from a template store in a github.com repository host in netlify.com, which are free service to use. Free and simple.
 ---
 
 #### Intention
