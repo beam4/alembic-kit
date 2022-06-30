@@ -51,11 +51,11 @@ navigation_header:
 # Collections
 collections:
   posts:
-    title: Postss
+    title: Opinion
     output: true
-    description: "My thoughts and ideas"
+    description: ""
     feature_text: |
-      ### Welcome to
+      ### Opinion
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
