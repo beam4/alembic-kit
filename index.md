@@ -9,7 +9,7 @@ feature_text: |
 
 #### Intention
 
-The intention is to build a church site from Code in a github.com repositry(means don't need start from scratch) and Hosting in netlify.com(the netlify.com automatically complete the job). 
+The intention is to build a church site from a github.com repository and hosting in netlify.com. 
 
 Follow the steps you will get a functional,static pages ,no databasse website.
 
@@ -21,9 +21,9 @@ Follow the steps you will get a functional,static pages ,no databasse website.
 
 If you don't have a github.com account, create one. (presume use github.com to store the Code, other service are the same with gitlab.com or gitbucket.com).
 
-##### 2. Folk the repositry
+##### 2. Folk the repository
 
-Folk the repositry to get a new copy of repositry to create the website.
+Folk the repositry to get a new copy of repository to create the website.
 
 ##### 3. Sign in your netlify.com account
 
