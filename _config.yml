@@ -36,8 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Opinions
-  url: /opinions/
+- title: Opinion
+  url: /opinion/
 - title: Tutorial
   url: /tutorial/
 - title: Contact
