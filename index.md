@@ -32,5 +32,3 @@ If you don't have a netlify.com account, create one and sign in.
 ##### 4. Instruct netlify.com to deploy website
 
 ##### 5. You will get a website from the target website
-
-#### Why we need a website?
