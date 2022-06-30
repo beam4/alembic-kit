@@ -17,7 +17,7 @@ Follow the steps you will get a functional,static pages ,no databasse website.
 
 #### Steps
 
-###### 1. Sign in your github.com account
+####### 1. Sign in your github.com account
 
 If you don't have a github.com account, create one. (presume use github.com to store the Code, other service are the same with gitlab.com or gitbucket.com).
 
