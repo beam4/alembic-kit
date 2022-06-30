@@ -5,6 +5,7 @@ feature_text: |
   # Build your church website
   
   ### To make a web site from a template store in a github.com repository host in netlify.com
+---
 
 #### Intention
 
