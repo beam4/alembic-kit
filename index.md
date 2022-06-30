@@ -17,18 +17,18 @@ Follow the steps you will get a functional,static pages ,no databasse website.
 
 #### Steps
 
-####### 1. Sign in your github.com account
+###### 1. Sign in your github.com account
 
 If you don't have a github.com account, create one. (presume use github.com to store the Code, other service are the same with gitlab.com or gitbucket.com).
 
-##### 2. Folk the repository
+###### 2. Folk the repository
 
 Folk the repositry to get a new copy of repository to create the website.
 
-##### 3. Sign in your netlify.com account
+###### 3. Sign in your netlify.com account
 
 If you don't have a netlify.com account, create one and sign in.
 
-##### 4. Instruct netlify.com to deploy website
+###### 4. Instruct netlify.com to deploy website
 
-##### 5. You will get a website from the target website
+###### 5. You will get a website from the target website
