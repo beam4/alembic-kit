@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Opinions
   url: /opinions/
+- title: Tutorial
+  url: /tutorial/
 - title: Contact
   url: /contact/
 
