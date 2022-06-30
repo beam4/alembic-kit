@@ -1,8 +1,8 @@
 ---
-title: About this website
+title: Contact
 ---
 
-### Contact
+Contact Person: Chee jon
 
 Email: cheejoen@gmail.com
 
